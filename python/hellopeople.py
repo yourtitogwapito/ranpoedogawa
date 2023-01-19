@@ -1,7 +1,4 @@
+import pandas as pd
+
 print("hello pips")
-
-import os
-
-lista = [1,2,3]
-lista.reverse()
-print("reverse",lista)
+print(pd.__version__)
